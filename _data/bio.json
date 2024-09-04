@@ -1,26 +1,24 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Zai Tangjian-Burns",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "picture": "https://github.com/zaitangjian-burns.png",
+    "email": "zaitb@hawaii.edu",
+    "phone": "808-797-5336",
+    "website": "https://zaitangjian-burns.github.io",
+    "summary": "I am currently studying to obtain a B.S. in Computer Science at the University of Hawaii at Manoa. I expect to graduate in the Spring of 2026. ",
+    "location": { "address": "", "postalCode": "96744", "city": "Kaneohe", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "zaitangjian-burns", "url": "http://github.com/zaitangjian-burns" },
+      { "network": "linkedin", "username": "mollymaluhia", "url": "http://https://www.linkedin.com/in/zai-tangjian-burns-34b304327/" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Software Engineering" },
+    { "name": "Game Design" },
+    { "name": "Data Science" },
+    { "name": "Tennis" },
+    { "name": "Music Production" }
   ],
   "skills": [
     {

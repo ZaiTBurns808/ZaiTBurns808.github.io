@@ -15,7 +15,7 @@ summary: "A first attempt at a game jam: a cutesy & crude puzzle game featuring 
 <div class="text-center p-4">
   <img class="img-fluid" src="../img/LGArt2.png">
   <img class="img-fluid" src="../img/Larry.png">
-  As I lack the artistic capabilities to create something this phenomenal, full credit for these images goes to my teammate Christian Iha, the lead Artist for all of our video game projects.
+  As I lack the artistic capabilities to create something this phenomenal, full credit for these images goes to my teammate Christian Iha, the lead artist for all of our video game projects.
 </div>
 <br>
 

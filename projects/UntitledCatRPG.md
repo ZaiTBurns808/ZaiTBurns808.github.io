@@ -15,7 +15,8 @@ summary: "My team and I's current video game project: a fantasy RPG revolving ar
 ---
 
 <img class="img-fluid" src="../img/King_Uni_Front.png">
-<img class="img-fluid" src="../img/KINGUNI.png">
+<img src="../img/King_Uni_Front.png" width="300" height="300" />
+<img src="../img/KINGUNI.png" width="300" height="300" />
 <img class="img-fluid" src="../img/CatGameMechanics1.png">
 Credit for the pixel art goes to Christian Iha, and credit for the plan drawings goes to Jack Saito.
 <br>

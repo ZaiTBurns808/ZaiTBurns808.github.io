@@ -17,4 +17,4 @@ This project is a hypothetical implementation for a hotel management system for 
 
 As the group lead, on top of coding my job was to keep my group on task, as well as to present our progress to the class. In terms of the code itself, I was delegated the Room class, the addRoom function, and the available rooms funciton. As I was the first amongst my group to finish, I then focused on helping my groupmates debug and build their code. This project overall proved to be fun and yet challenging as it took a lot of effort to ensure a project this large would work. Thanks to my group being very cooperative and helpful, we were able to get an A+ on this project, as well as our presentation. 
 
-The link to the replit can be found [here.]([https://docs.google.com/presentation/d/1n4gp4tsUMfS1Dj_eH3ju50F4ob3fy0r97b0FFBo43tI/edit?usp=sharing](https://replit.com/@zaitb/Hotel-Management-System-G6?v=1)
+The link to the replit can be found [here.]((https://replit.com/@zaitb/Hotel-Management-System-G6?v=1))

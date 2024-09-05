@@ -15,7 +15,7 @@ summary: "My team and I's current video game project: a fantasy RPG revolving ar
 ---
 <div>
   <img src="../img/King_Uni_Front.png" width="300" height="300" >
-  <img src="../img/KINGUNI.png" width="300" height="300" />
+  <img src="../img/KINGUNI2.png" width="300" height="300" />
 </div>
 <img class="img-fluid" src="../img/CatGameMechanics1.png">
 

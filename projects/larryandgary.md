@@ -9,7 +9,7 @@ labels:
   - Game Design
   - Unity
   - C#
-summary: "A first attempt at a game jam; a cutesy & crude puzzle game featuring unique mechanics."
+summary: "A first attempt at a game jam: a cutesy & crude puzzle game featuring unique mechanics."
 ---
 
 <div class="text-center p-4">

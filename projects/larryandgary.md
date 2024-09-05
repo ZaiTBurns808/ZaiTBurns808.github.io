@@ -15,10 +15,9 @@ summary: "A first attempt at a game jam: a cutesy & crude puzzle game featuring 
 <div class="text-center p-4">
   <img class="img-fluid" src="../img/LGArt2.png">
   <img class="img-fluid" src="../img/Larry.png">
-  
 </div>
-As I lack the artistic capabilities to create something this phenomenal, full credit for these images goes to my teammate Christian Iha, the lead artist for all of our video game projects.
 <br>
+As I lack the artistic capabilities to create something this phenomenal, full credit for these images goes to my teammate Christian Iha, the lead artist for all of our video game projects.
 <br>
 Larry and Garry was a project created for the 2023 "0-Gravity" game jam hosted by Spoilz Games. The jam took place over the course of three days, and the theme was "Outer Space". The game was designed to be a puzzle game featuring two cute robot characters: Larry and Garry. To match the theme, we intended the game to take place in a robot testing facility on the moon. Additionally, the main mechanic featured for the puzzles took the phrase "Outer Space" literally, using both the "inner space" and "outer space" of the facility to solve puzzles. In the game you control both Larry and Garry, who each have distinct roles. Garry is trapped in the testing facility, surrounded by complete darkness. Larry, from outside the box, must shine light into the room from the outside using his handy robo-flashlight. The gameplay loop involves moving Larry to holes in the wall to provide light, and then using Garry to solve puzzles using clues within the room, which unlock more holes in the wall.
 

@@ -14,7 +14,7 @@ labels:
 summary: "My team and I's current video game project: a fantasy RPG revolving around the most meowverlous felines!"
 ---
 <div>
-  <img src="../img/King_Uni_Front.png" width="450" height="410" >
+  <img src="../img/King_Uni_Front.png" width="444" height="410" >
   <img src="../img/KINGUNI2.png" width="410" height="410" />
 </div>
 <img class="img-fluid" src="../img/CatGameMechanics1.png">

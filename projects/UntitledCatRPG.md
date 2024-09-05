@@ -20,7 +20,9 @@ summary: "My team and I's current video game project: a fantasy RPG revolving ar
 <img class="img-fluid" src="../img/CatGameMechanics1.png">
 
 
-Credit for the pixel art goes to Christian Iha, and credit for the plan drawings goes to Jack Saito.
+Credit for the pixel art goes to Christian Iha, credit to the cat goes to @unicouniuni3 on X and credit for the plan drawings goes to Jack Saito.
+<br>
+<br>
 <br>
 The Untitled Cat RPG is the project that my team and I are currently working on. Our humble team is of three, including myself and my best friends Jack Saito and Christian Iha. The project initially started as a potential idea for the July 2023 "Random Jam", a game jam in which randomness would be a key factor. As the project was far too ambitious, we discarded the idea of doing it as a game jam and instead decided to work on it separately. The game draws inspiration from a variety of our favorite turn based role playing games, but features some of our favorite creatures from the real world: cats! The roster of characters includes internet famous cats as well as our friends' own pets, with even more creatures to be made in the future. 
 

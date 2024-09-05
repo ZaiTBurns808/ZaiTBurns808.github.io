@@ -13,7 +13,7 @@ summary: "A first attempt at a game jam; a cutesy & crude puzzle game featuring 
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
+  <img width="200px" src="..img/Screen Shot 2024-09-04 at 5.27.35 PM.png" class="img-thumbnail" >
   <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
   <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
 </div>

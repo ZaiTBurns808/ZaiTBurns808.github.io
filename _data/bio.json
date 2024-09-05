@@ -10,7 +10,7 @@
     "location": { "address": "", "postalCode": "96744", "city": "Kaneohe", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "zaitangjian-burns", "url": "http://github.com/zaitangjian-burns" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://https://www.linkedin.com/in/zai-tangjian-burns-34b304327/" }
+      { "network": "linkedin", "username": "Zai Tangjian-Burns", "url": "www.linkedin.com/in/zai-tangjian-burns" }
     ]
   },
   "interests": [
@@ -18,7 +18,7 @@
     { "name": "Game Design" },
     { "name": "Data Science" },
     { "name": "Tennis" },
-    { "name": "Music Production" }
+    { "name": "Piano" }
   ],
   "skills": [
     {

@@ -13,7 +13,7 @@ summary: "A first attempt at a game jam; a cutesy & crude puzzle game featuring 
 ---
 
 <div class="text-center p-4">
-  <img title="Larry" alt="The Cutest Robot in the Milky Way" src="/images/Larry.png">
+  <img title="" alt="" src="/images/Larry.png">
   <img title="Concept Art" alt="Concept Art for Larry and Garry" src="/images/LGArt.png">
 </div>
 

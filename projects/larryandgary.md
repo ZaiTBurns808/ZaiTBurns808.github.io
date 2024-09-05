@@ -13,7 +13,7 @@ summary: "A first attempt at a game jam; a cutesy & crude puzzle game featuring 
 ---
 
 <div class="text-center p-4">
-  <img class="img-fluid" src="../img/LGArt.png">
+  <img class="img-fluid" src="../img/LGArt2.png">
   <img class="img-fluid" src="../img/Larry.png">
 </div>
 

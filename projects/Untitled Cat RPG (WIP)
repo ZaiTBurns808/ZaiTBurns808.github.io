@@ -2,13 +2,16 @@
 layout: project
 type: project
 image: img/cotton/cotton-square.png
-title: "Cotton"
-date: 2014
+title: "Untitled Cat Game"
+date: 2024-08-24
 published: true
 labels:
-  - Lisp
-  - GitHub
-summary: "A text adventure game that I developed for ICS 313."
+  - Game Design
+  - C#
+  - Github
+  - Unity
+  - 3D Modeling
+summary: "My team and I's current video game project: a Dungeons and Dragons inspired RPG revolving around the cutest felines!"
 ---
 
 <img class="img-fluid" src="../img/cotton/cotton-header.png">

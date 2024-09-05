@@ -14,7 +14,7 @@ labels:
 summary: "My team and I's current video game project: a fantasy RPG revolving around the most meowverlous felines!"
 ---
 
-<img class="img-fluid" src="../img/Evil_Momo.png">
+<img class="img-fluid" src="../img/King_Uni_Front.png">
 
 The Untitled Cat RPG is the project that my team and I are currently working on. Our humble team is of three, including myself and my best friends Jack Saito and Christian Iha. The project initially started as a potential idea for the July 2023 "Random Jam", a game jam in which randomness would be a key factor. As the project was far too ambitious, we discarded the idea of doing it as a game jam and instead decided to work on it separately. The game draws inspiration from a variety of our favorite turn based role playing games, but features some of our favorite creatures from the real world: cats! The roster of characters includes internet famous cats as well as our friends' own pets, with even more creatures to be made in the future. 
 

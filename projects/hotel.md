@@ -11,7 +11,7 @@ labels:
 summary: "A hypothetical hotel management system for my ICS 212 final project."
 ---
 
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
+<img class="img-fluid" src="../img/replitss.png">
 
 This project is a hypothetical implementation for a hotel management system for ICS212 at UH Manoa. It was my first experience working with a somewhat large group, (five people) and also was my first experience working on a large system. The intention of the project was to prove our capability in object oriented programming, as well as our proficiency with C++ as a coding language. The project utilized replit to allow my group and I to collaborate. The program features many desireable features for managing a hotel, such as managing customers, calculating costs, adding/removing room availability, and more. 
 

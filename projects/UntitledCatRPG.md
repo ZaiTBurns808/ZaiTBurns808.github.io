@@ -13,18 +13,37 @@ labels:
   - 3D Modeling
 summary: "My team and I's current video game project: a fantasy RPG revolving around the most meowverlous felines!"
 ---
-<div class="row">
-  <div class="column">
-    <img src="../img/King_Uni_Front.png" width="300" height="300" >
-  </div>
-  <div class="column">
-    <img src="../img/KINGUNI.png" width="300" height="300" />
-  </div>
-  <div class="column">
-    <img class="img-fluid" src="../img/CatGameMechanics1.png">
-  </div>
-</div>
-<img class="img-fluid" src="../img/King_Uni_Front.png">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Images Side by Side</title>
+    <style>
+        .image-container {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .image-container img {
+            width: 300px;
+            height: 300px;
+        }
+    </style>
+</head>
+<body>
+    <div class="image-container">
+        <img src="../img/King_Uni_Front.png" alt="Image 1">
+        <img src="../img/KINGUNI.png" alt="Image 2">
+    </div>
+</body>
+</html>
+    
+ 
+<img src="../img/King_Uni_Front.png" width="300" height="300" >
+  <img src="../img/KINGUNI.png" width="300" height="300" />
+   <img class="img-fluid" src="../img/CatGameMechanics1.png">
 
 
 Credit for the pixel art goes to Christian Iha, and credit for the plan drawings goes to Jack Saito.

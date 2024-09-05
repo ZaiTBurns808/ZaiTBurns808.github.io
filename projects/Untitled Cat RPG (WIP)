@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/Evil_Momo.png
-title: "Untitled Cat Game (WIP)"
+title: "Untitled Cat RPG (WIP)"
 date: 2024-08-24
 published: true
 labels:
@@ -16,47 +16,6 @@ summary: "My team and I's current video game project: a fantasy RPG revolving ar
 
 <img class="img-fluid" src="../img/cotton/cotton-header.png">
 
-Cotton is a horror-style text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+The Untitled Cat RPG is the project that my team and I are currently working on. Our humble team is of three, including myself and my best friends Jack Saito and Christian Iha. The project initially started as a potential idea for the July 2023 "Random Jam", a game jam in which randomness would be a key factor. As the project was far too ambitious, we discarded the idea of doing it as a game jam and instead decided to work on it separately. The game draws inspiration from a variety of our favorite turn based role playing games, but features some of our favorite creatures from the real world: cats! The roster of characters includes internet famous cats as well as our friends' own pets, with even more creatures to be made in the future. 
 
-To give you a flavor of the game, here is an excerpt from one run:
-
-<hr>
-
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+The game's vision is quite ambitious, especially for three people. To describe it as concisely as possible: it is an isometric tactical RPG, inspired heavily by Paper Mario’s overworld mechanics/story, D&D’s turn system, and Pokemon Conquest’s combat. I, as the lead game designer, am entirely responsible for every aspect of game design in ths project such as mechanic design, storyboarding, and balancing. On top of all of the game design aspects, I am in charge of all related game documentation, which serves as a checkpoint for us to see how far we've come as developers.  As of September 4th, 2024, the project has a great deal of groundwork in both planning and creation, including programming and artwork, and it can be found here.

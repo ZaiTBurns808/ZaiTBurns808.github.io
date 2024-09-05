@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/cotton/cotton-square.png
-title: "Untitled Cat Game"
+title: "Untitled Cat Game (WIP)"
 date: 2024-08-24
 published: true
 labels:
@@ -11,7 +11,7 @@ labels:
   - Github
   - Unity
   - 3D Modeling
-summary: "My team and I's current video game project: a Dungeons and Dragons inspired RPG revolving around the cutest felines!"
+summary: "My team and I's current video game project: a fantasy RPG revolving around the most meowverlous felines!"
 ---
 
 <img class="img-fluid" src="../img/cotton/cotton-header.png">

@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/larryandgary-square.png
 title: "Larry and Garry"
 date: 2023-06-10
 published: true

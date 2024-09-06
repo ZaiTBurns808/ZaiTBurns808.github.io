@@ -37,7 +37,7 @@
       "studyType": "B.S.",
       "startDate": "2022-08-28",
       "endDate": "Present",
-      "courses": [
+      "courses": ["ICS211", "ICS212", "ICS242"
       ]
     }
   ],

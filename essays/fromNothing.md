@@ -25,5 +25,5 @@ Despite these sour words of disdain that I have for Bootstrap, I still find it q
 ## My Very Own Bootstrap Webpage
 With my personal experience being very limited, I was tasked in my Software Engineering course to recreate the UI of a website of my choice using Bootstrap 5. For my site, I chose to replicate the website of my Elementary school. As I lacked any experience with Bootstrap (and barely any in HTML for that matter), the UI took very long to replicate, especially when presented with the challenge of creating visually similar formatting and style. Overall, however, despite the various times I was road blocked by my lack of knowledge, I see why a UI framework like Bootstrap can be extremely useful, and I do intend to use it or a similar framework in the future. Below lies an image of my attempt at recreating the website (left) as well as the original site I was trying to mimic (right). 
 
-<img width="200px" class="rounded float-start pe-4" src="/img/MySiteHeader.png">
-<img width="200px" class="rounded float-start pe-4" src="/img/OriginalSiteHeader.png">
+<img width="500px" class="rounded float-start pe-4" src="/img/MySiteHeader.png">
+<img width="500px" class="rounded float-start pe-4" src="/img/OriginalSiteHeader.png">

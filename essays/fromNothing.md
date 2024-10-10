@@ -12,5 +12,5 @@ labels:
   - CSS
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
+<img width="100px" class="rounded float-start pe-4" src="/img/MySiteHeader.png">
 

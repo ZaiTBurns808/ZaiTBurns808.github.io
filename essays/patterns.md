@@ -9,7 +9,7 @@ labels:
   - Design Patterns
 ---
 
-<img width="500px" class="rounded float-start pe-4 mb-4" src="../img/Eng.png">
+<img width="400px" class="rounded float-start pe-4 mb-4" src="../img/Eng.png">
 
 *Design patterns: reusable solutions to common problems in software development.*
 

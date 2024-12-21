@@ -10,6 +10,9 @@ labels:
   - StackOverflow
   - Questions
 ---
+
+<img width="200px" class="rounded float-start pe-4 mb-4 w-100" src="../img/Stack.png">
+
 ## Why ask smart questions?
   An engineer’s most valuable skill is the ability to take lessons from failures or a lack of understanding and find ways to convert them into results. Asking detailed yet concise questions is essential for learning in any environment, and the internet is no different. Websites like StackOverflow, which feature forums for asking computer science and software engineering-related questions, are full of posts, many of which leave much to be desired. But what qualifies a question as good? This essay reviews two examples of questions asked on StackOverflow that contrast greatly in quality, and discusses what they do right (or wrong). I will then reflect on smart questions as a whole and how I can utilize this information in the future to help me learn better.
 

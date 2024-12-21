@@ -4,7 +4,7 @@ type: essay
 title: "Standardization: It's Not Just For Show!"
 # All dates must be YYYY-MM-DD format!
 date: 2024-09-24
-published: true
+published: false
 labels:
   - JavaScript
   - ESLint

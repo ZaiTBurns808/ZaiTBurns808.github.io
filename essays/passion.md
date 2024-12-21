@@ -4,7 +4,7 @@ type: essay
 title: "Sparking Passion In Profession"
 # All dates must be YYYY-MM-DD format!
 date: 2024-09-04
-published: true
+published: false
 labels:
   - Software Engineering
   - Software Development

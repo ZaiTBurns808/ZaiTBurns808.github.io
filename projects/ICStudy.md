@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/white-logo.png
+image: img/whitelogo.png
 title: "ICStudy"
 date: 2024-12-15
 published: true
